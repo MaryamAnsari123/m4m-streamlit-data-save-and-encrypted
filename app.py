@@ -108,7 +108,7 @@ if menu == "Home":
     👥 **Multi-user system with individual passkeys.**  
     ❌ **Automatic lockout after 3 wrong attempts.**  
     """)
-   st.write("---------------------------------------------")
+   
     st.markdown(f"<p style='background-color: lightgray; padding: 5px; text-align:center; font-size:20px; color:blue'>Made by <b>Maryam Ansari</b></p>" , unsafe_allow_html=True)
     
     st.markdown("</div>", unsafe_allow_html=True)
